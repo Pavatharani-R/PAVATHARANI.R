@@ -1,1 +1,1 @@
-# PAVATHARANI.R
+Develop an AI-powered sentiment analysis system capable of accurately analyzing and categorizing the sentiment expressed in textual data, such as social media posts, customer reviews, and news articles. The system should be able to distinguish between positive, negative, and neutral sentiments, providing insights into the overall sentiment trends of the given data.
